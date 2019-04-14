@@ -23,17 +23,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AI_Assignment_Genetic_Algorithm.py" />
     <Compile Include="Generation.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="genetic_Algorithm.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="Individual.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="interface.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="main.py">
